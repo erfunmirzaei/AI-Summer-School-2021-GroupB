@@ -1,2 +1,2 @@
 # AI-Summer-School-2021-GroupB
-We share some useful notebooks and scripts here to start AI.  
+Here are some useful notebooks and scripts to get you started with AI.
